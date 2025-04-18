@@ -204,7 +204,7 @@ h6 {
  
 
   #navbar .nav-content li {
-    float: right;
+    float: left;
     padding: 0 8px;
   }
 }
